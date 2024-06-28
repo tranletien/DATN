@@ -1,0 +1,2 @@
+@keyframes scaleText{0%{transform:scale(1)}50%{transform:scale(1.1)}to{transform:scale(1)}}.home-category-banner .title.animated-text{animation:scaleText 1s ease infinite;color:red;display:inline-block;font-size:18px;line-height:1;margin-bottom:10px;text-shadow:-1px -1px 0 gold,1px -1px 0 gold,-1px 1px 0 gold,1px 1px 0 gold}@keyframes scaleImage{0%{transform:scale(1)}to{transform:scale(1.2)}}
+/*# sourceMappingURL=189.748f3984.chunk.css.map*/
